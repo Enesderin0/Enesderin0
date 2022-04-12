@@ -1,13 +1,16 @@
-
-
-
 ## Hello. I am Enes.
 
 - 🔭 I’m Software Developer ...
 - 🌱 I’m learn Back-End Development now ...
-- #### I know:
+
+#### I know:
 - Html
+- -----
 - CSS
-- Js
+- -----
+- JavaScript
+- -----
 - Python
+- -----
 - Java
+- -----
